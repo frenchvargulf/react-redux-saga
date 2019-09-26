@@ -3,10 +3,10 @@ This repo helps react developers that are stuck between being a beginner and a h
 
 
 # Stack
-  Redux
-  Resux Saga skills
-  Clean code
-  State tree management
+  - Redux
+  - Resux Saga skills
+  - Clean code
+  - State tree management
 
 # To download the REPO
 Type the following commands in the command line
